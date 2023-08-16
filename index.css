@@ -1,0 +1,17 @@
+body {
+    background-image: url('img/pexels-pixabay-258395.jpg');
+    /* Fotoğrafın dosya yolunu belirtin */
+    background-size: cover;
+    /* Fotoğrafın sayfa boyutuna göre ölçeklenmesini sağlar */
+    background-repeat: no-repeat;
+    /* Tekrarlanmasını engeller */
+    background-attachment: fixed;
+    /* Fotoğrafın kaydırılırken sabit kalmasını sağlar */
+}
+
+.arrowozellik {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+}
